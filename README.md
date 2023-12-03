@@ -1,5 +1,5 @@
 # Event Management System
-  ![Snippet](https://github.com/Albany-Beck-Worldwide/python-ems-CharuKes/blob/main/1.JPG)
+  ![Snippet](https://github.com/CharuKes/Event-Management-System/blob/master/Data/1%20(1).JPG)
 
 This is a simple Event Management System implemented in Python. The system allows users to create, edit, delete events, manage attendees, and store event data in a JSON file (`event.json`).
 
