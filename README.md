@@ -50,7 +50,7 @@ This repository contains a Python implementation of an Event Management System. 
 
 1. Run the script (`asmt.py`) in your Python environment.
    
-    ![Snippet](https://github.com/Albany-Beck-Worldwide/python-ems-CharuKes/blob/main/git.JPG)
+    ![Snippet](https://github.com/CharuKes/Event-Management-System/blob/master/Data/git%20(1).JPG)
 3. Choose an option from the menu (1 to 8) to perform the desired operation.
 4. Follow the prompts to input information for creating, editing, or deleting events.
 
